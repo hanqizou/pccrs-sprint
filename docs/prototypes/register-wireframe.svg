@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+  <rect width="900" height="600" fill="#f6f7fb"/>
+  <rect x="40" y="30" width="820" height="50" rx="8" fill="#d7e3f4"/>
+  <text x="60" y="62" font-family="Arial" font-size="20" fill="#1f2d3d">Register</text>
+  <rect x="240" y="110" width="420" height="390" rx="16" fill="#ffffff" stroke="#c8d1dc"/>
+  <text x="290" y="160" font-family="Arial" font-size="28" fill="#1f2d3d">Create account</text>
+  <rect x="290" y="190" width="320" height="42" rx="6" fill="#eef3f8"/>
+  <rect x="290" y="250" width="320" height="42" rx="6" fill="#eef3f8"/>
+  <rect x="290" y="310" width="320" height="42" rx="6" fill="#eef3f8"/>
+  <rect x="290" y="370" width="320" height="42" rx="6" fill="#eef3f8"/>
+  <rect x="290" y="430" width="320" height="46" rx="8" fill="#bfd7ea"/>
+  <text x="320" y="218" font-family="Arial" font-size="16" fill="#516273">Display name</text>
+  <text x="320" y="278" font-family="Arial" font-size="16" fill="#516273">Email</text>
+  <text x="320" y="338" font-family="Arial" font-size="16" fill="#516273">Password</text>
+  <text x="320" y="398" font-family="Arial" font-size="16" fill="#516273">Confirm password</text>
+  <text x="400" y="459" font-family="Arial" font-size="18" fill="#1f2d3d">Submit</text>
+</svg>
+

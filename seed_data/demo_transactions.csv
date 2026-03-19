@@ -1,0 +1,205 @@
+date,merchant,amount,category,mcc_code
+2025-09-01,Nike,95.47,online_shopping,5942
+2025-09-01,Shake Shack,89.93,dining,5812
+2025-09-01,Whole Foods,87.11,groceries,5411
+2025-09-04,Shell,72.91,gas,5541
+2025-09-06,CVS,68.85,other,5999
+2025-09-07,Chipotle,77.82,dining,5812
+2025-09-07,Delta,77.82,travel,4511
+2025-09-07,Exxon,74.64,gas,5541
+2025-09-09,Walgreens,70.58,other,5999
+2025-09-10,BP,76.37,gas,5541
+2025-09-10,Duke Energy,76.73,utilities,4900
+2025-09-10,Sweetgreen,79.55,dining,5812
+2025-09-10,Trader Joe's,76.73,groceries,5411
+2025-09-10,United,79.55,travel,4511
+2025-09-13,AT&T,78.46,utilities,4900
+2025-09-13,Hilton,81.28,travel,4511
+2025-09-13,Shake Shack,81.28,dining,5812
+2025-09-13,Whole Foods,78.46,groceries,5411
+2025-09-14,AMC,106.61,entertainment,7832
+2025-09-16,Amazon,88.55,online_shopping,5942
+2025-09-16,Cava,83.01,dining,5812
+2025-09-16,Marriott,83.01,travel,4511
+2025-09-16,Target Grocery,80.19,groceries,5411
+2025-09-17,Spotify,108.34,entertainment,7832
+2025-09-19,Kroger,81.92,groceries,5411
+2025-09-19,Panera,84.74,dining,5812
+2025-09-19,Uber Travel,84.74,travel,4511
+2025-09-19,eBay,90.28,online_shopping,5942
+2025-09-22,Chipotle,86.47,dining,5812
+2025-09-22,Etsy,92.01,online_shopping,5942
+2025-09-22,H Mart,83.65,groceries,5411
+2025-09-25,Best Buy,93.74,online_shopping,5942
+2025-09-25,Sweetgreen,88.20,dining,5812
+2025-09-25,Trader Joe's,85.38,groceries,5411
+2025-10-03,Best Buy,95.85,online_shopping,5942
+2025-10-03,Panera,90.31,dining,5812
+2025-10-03,Target Grocery,87.49,groceries,5411
+2025-10-06,Chipotle,92.04,dining,5812
+2025-10-06,Kroger,89.22,groceries,5411
+2025-10-06,Nike,97.58,online_shopping,5942
+2025-10-09,Mobil,75.02,gas,5541
+2025-10-11,IKEA,70.96,other,5999
+2025-10-12,Cava,79.93,dining,5812
+2025-10-12,Delta,79.93,travel,4511
+2025-10-12,Speedway,76.75,gas,5541
+2025-10-14,PetSmart,72.69,other,5999
+2025-10-15,Panera,81.66,dining,5812
+2025-10-15,Shell,78.48,gas,5541
+2025-10-15,Target Grocery,78.84,groceries,5411
+2025-10-15,United,81.66,travel,4511
+2025-10-15,Verizon,78.84,utilities,4900
+2025-10-18,Chipotle,83.39,dining,5812
+2025-10-18,Hilton,83.39,travel,4511
+2025-10-18,Kroger,80.57,groceries,5411
+2025-10-18,Water Utility,80.57,utilities,4900
+2025-10-19,Netflix,108.72,entertainment,7832
+2025-10-21,Amazon,90.66,online_shopping,5942
+2025-10-21,H Mart,82.30,groceries,5411
+2025-10-21,Marriott,85.12,travel,4511
+2025-10-21,Sweetgreen,85.12,dining,5812
+2025-10-22,StubHub,110.45,entertainment,7832
+2025-10-24,Shake Shack,86.85,dining,5812
+2025-10-24,Trader Joe's,84.03,groceries,5411
+2025-10-24,Uber Travel,86.85,travel,4511
+2025-10-24,eBay,92.39,online_shopping,5942
+2025-10-27,Cava,88.58,dining,5812
+2025-10-27,Etsy,94.12,online_shopping,5942
+2025-10-27,Whole Foods,85.76,groceries,5411
+2025-11-02,Chipotle,88.96,dining,5812
+2025-11-02,Target Grocery,86.14,groceries,5411
+2025-11-02,Uber Travel,88.96,travel,4511
+2025-11-02,eBay,94.50,online_shopping,5942
+2025-11-05,Etsy,96.23,online_shopping,5942
+2025-11-05,Kroger,87.87,groceries,5411
+2025-11-05,Sweetgreen,90.69,dining,5812
+2025-11-08,Best Buy,97.96,online_shopping,5942
+2025-11-08,H Mart,89.60,groceries,5411
+2025-11-08,Shake Shack,92.42,dining,5812
+2025-11-11,Cava,94.15,dining,5812
+2025-11-11,Nike,99.69,online_shopping,5942
+2025-11-11,Trader Joe's,91.33,groceries,5411
+2025-11-14,Exxon,77.13,gas,5541
+2025-11-16,Office Depot,73.07,other,5999
+2025-11-17,BP,78.86,gas,5541
+2025-11-17,Delta,82.04,travel,4511
+2025-11-17,Sweetgreen,82.04,dining,5812
+2025-11-19,CVS,74.80,other,5999
+2025-11-20,H Mart,80.95,groceries,5411
+2025-11-20,Internet Provider,80.95,utilities,4900
+2025-11-20,Mobil,80.59,gas,5541
+2025-11-20,Shake Shack,83.77,dining,5812
+2025-11-20,United,83.77,travel,4511
+2025-11-23,Cava,85.50,dining,5812
+2025-11-23,Duke Energy,82.68,utilities,4900
+2025-11-23,Hilton,85.50,travel,4511
+2025-11-23,Trader Joe's,82.68,groceries,5411
+2025-11-24,Steam,110.83,entertainment,7832
+2025-11-26,Amazon,92.77,online_shopping,5942
+2025-11-26,Marriott,87.23,travel,4511
+2025-11-26,Panera,87.23,dining,5812
+2025-11-26,Whole Foods,84.41,groceries,5411
+2025-11-27,AMC,112.56,entertainment,7832
+2025-12-01,Hilton,87.61,travel,4511
+2025-12-01,Sweetgreen,87.61,dining,5812
+2025-12-01,Target Grocery,84.79,groceries,5411
+2025-12-01,Verizon,68.79,utilities,4900
+2025-12-02,Spotify,112.94,entertainment,7832
+2025-12-04,Amazon,94.88,online_shopping,5942
+2025-12-04,Kroger,86.52,groceries,5411
+2025-12-04,Marriott,89.34,travel,4511
+2025-12-04,Shake Shack,89.34,dining,5812
+2025-12-05,Netflix,114.67,entertainment,7832
+2025-12-07,Cava,91.07,dining,5812
+2025-12-07,H Mart,88.25,groceries,5411
+2025-12-07,Uber Travel,91.07,travel,4511
+2025-12-07,eBay,96.61,online_shopping,5942
+2025-12-10,Etsy,98.34,online_shopping,5942
+2025-12-10,Panera,92.80,dining,5812
+2025-12-10,Trader Joe's,89.98,groceries,5411
+2025-12-13,Best Buy,100.07,online_shopping,5942
+2025-12-13,Chipotle,94.53,dining,5812
+2025-12-13,Whole Foods,91.71,groceries,5411
+2025-12-16,Nike,101.80,online_shopping,5942
+2025-12-16,Sweetgreen,96.26,dining,5812
+2025-12-16,Target Grocery,93.44,groceries,5411
+2025-12-19,Speedway,79.24,gas,5541
+2025-12-21,Walgreens,75.18,other,5999
+2025-12-22,Delta,84.15,travel,4511
+2025-12-22,Panera,84.15,dining,5812
+2025-12-22,Shell,80.97,gas,5541
+2025-12-24,IKEA,76.91,other,5999
+2025-12-25,AT&T,83.06,utilities,4900
+2025-12-25,Chipotle,85.88,dining,5812
+2025-12-25,Exxon,82.70,gas,5541
+2025-12-25,United,85.88,travel,4511
+2025-12-25,Whole Foods,83.06,groceries,5411
+2026-01-02,Office Depot,79.02,other,5999
+2026-01-03,Cava,87.99,dining,5812
+2026-01-03,Kroger,85.17,groceries,5411
+2026-01-03,Speedway,84.81,gas,5541
+2026-01-03,United,87.99,travel,4511
+2026-01-03,Water Utility,69.17,utilities,4900
+2026-01-06,H Mart,86.90,groceries,5411
+2026-01-06,Hilton,89.72,travel,4511
+2026-01-06,Internet Provider,70.90,utilities,4900
+2026-01-06,Panera,89.72,dining,5812
+2026-01-07,StubHub,115.05,entertainment,7832
+2026-01-09,Amazon,96.99,online_shopping,5942
+2026-01-09,Chipotle,91.45,dining,5812
+2026-01-09,Marriott,91.45,travel,4511
+2026-01-09,Trader Joe's,88.63,groceries,5411
+2026-01-10,Steam,94.78,entertainment,7832
+2026-01-12,Sweetgreen,93.18,dining,5812
+2026-01-12,Uber Travel,93.18,travel,4511
+2026-01-12,Whole Foods,90.36,groceries,5411
+2026-01-12,eBay,98.72,online_shopping,5942
+2026-01-15,Etsy,100.45,online_shopping,5942
+2026-01-15,Shake Shack,94.91,dining,5812
+2026-01-15,Target Grocery,92.09,groceries,5411
+2026-01-18,Best Buy,102.18,online_shopping,5942
+2026-01-18,Cava,96.64,dining,5812
+2026-01-18,Kroger,93.82,groceries,5411
+2026-01-21,H Mart,95.55,groceries,5411
+2026-01-21,Nike,103.91,online_shopping,5942
+2026-01-21,Panera,98.37,dining,5812
+2026-01-24,BP,81.35,gas,5541
+2026-01-26,PetSmart,77.29,other,5999
+2026-01-27,Delta,86.26,travel,4511
+2026-01-27,Mobil,83.08,gas,5541
+2026-01-27,Shake Shack,86.26,dining,5812
+2026-02-02,Shell,83.46,gas,5541
+2026-02-04,CVS,79.40,other,5999
+2026-02-05,Chipotle,88.37,dining,5812
+2026-02-05,Delta,88.37,travel,4511
+2026-02-05,Exxon,85.19,gas,5541
+2026-02-07,Walgreens,81.13,other,5999
+2026-02-08,BP,86.92,gas,5541
+2026-02-08,Duke Energy,71.28,utilities,4900
+2026-02-08,Sweetgreen,90.10,dining,5812
+2026-02-08,Trader Joe's,87.28,groceries,5411
+2026-02-08,United,90.10,travel,4511
+2026-02-11,AT&T,73.01,utilities,4900
+2026-02-11,Hilton,91.83,travel,4511
+2026-02-11,Shake Shack,91.83,dining,5812
+2026-02-11,Whole Foods,89.01,groceries,5411
+2026-02-12,AMC,95.16,entertainment,7832
+2026-02-14,Amazon,99.10,online_shopping,5942
+2026-02-14,Cava,93.56,dining,5812
+2026-02-14,Marriott,93.56,travel,4511
+2026-02-14,Target Grocery,90.74,groceries,5411
+2026-02-15,Spotify,96.89,entertainment,7832
+2026-02-17,Kroger,92.47,groceries,5411
+2026-02-17,Panera,95.29,dining,5812
+2026-02-17,Uber Travel,95.29,travel,4511
+2026-02-17,eBay,100.83,online_shopping,5942
+2026-02-20,Chipotle,97.02,dining,5812
+2026-02-20,Etsy,102.56,online_shopping,5942
+2026-02-20,H Mart,94.20,groceries,5411
+2026-02-23,Best Buy,104.29,online_shopping,5942
+2026-02-23,Sweetgreen,98.75,dining,5812
+2026-02-23,Trader Joe's,95.93,groceries,5411
+2026-02-26,Nike,106.02,online_shopping,5942
+2026-02-26,Shake Shack,100.48,dining,5812
+2026-02-26,Whole Foods,97.66,groceries,5411

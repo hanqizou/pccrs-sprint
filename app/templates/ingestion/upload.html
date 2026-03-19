@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+{% block title %}Ingestion{% endblock %}
+{% block content %}
+<div class="row g-4">
+  <div class="col-lg-7">
+    <div class="card shadow-sm h-100">
+      <div class="card-body p-4">
+        <h1 class="h3 mb-3">Import Transactions</h1>
+        <p class="text-secondary">Upload a CSV file with <code>date, merchant, amount, category</code> or a JSON file with a <code>transactions</code> array.</p>
+        <form method="post" action="{{ url_for('ingestion.upload') }}" enctype="multipart/form-data">
+          {{ form.hidden_tag() }}
+          <div class="mb-3">
+            {{ form.data_file.label(class="form-label") }}
+            {{ form.data_file(class="form-control") }}
+            {% for error in form.data_file.errors %}
+            <div class="form-text text-danger">{{ error }}</div>
+            {% endfor %}
+          </div>
+          {{ form.submit(class="btn btn-primary") }}
+        </form>
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-5">
+    <div class="card shadow-sm mb-4">
+      <div class="card-body p-4">
+        <h2 class="h5 mb-3">FX Rate Cache</h2>
+        <p class="text-secondary mb-3">Refresh exchange rates before importing files with non-USD transactions.</p>
+        <p class="small text-muted mb-3">
+          Last FX update:
+          {% if fx_last_updated %}
+          <strong>{{ fx_last_updated }}</strong>
+          {% else %}
+          <strong>Not synced yet</strong>
+          {% endif %}
+        </p>
+        <form method="post" action="{{ url_for('ingestion.fx_sync') }}">
+          <input type="hidden" name="csrf_token" value="{{ csrf_token() }}">
+          <button class="btn btn-outline-primary" type="submit">Sync FX Rates</button>
+        </form>
+      </div>
+    </div>
+    <div class="card shadow-sm">
+      <div class="card-body p-4">
+        <h2 class="h5 mb-3">Supported Formats</h2>
+        <ul class="mb-0 text-secondary">
+          <li>CSV: date, merchant, amount, category</li>
+          <li>JSON: transactions[].date, description, amount_cents, mcc_code</li>
+          <li>Duplicate uploads are rejected using SHA256 import IDs</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}

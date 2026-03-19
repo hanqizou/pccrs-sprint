@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+{% block title %}Dashboard{% endblock %}
+{% block content %}
+<section class="dashboard-shell rounded-4 border shadow-sm p-4 p-lg-5">
+  <div class="d-flex flex-wrap justify-content-between align-items-start gap-3 mb-4">
+    <div>
+      <p class="text-uppercase small fw-semibold text-secondary mb-2">Authenticated Workspace</p>
+      <h1 class="h2 mb-2">Welcome back, {{ current_user.display_name or current_user.email }}.</h1>
+      <p class="text-secondary mb-0">Use your dashboard to import data, review your current profile, and prepare for recommendations.</p>
+    </div>
+    <div class="dashboard-actions d-flex gap-2 flex-wrap">
+      <a class="btn btn-primary" href="{{ url_for('ingestion.index') }}">Import Data</a>
+      <a class="btn btn-outline-primary" href="{{ url_for('analysis.decision') }}">Run Recommendation</a>
+      <a class="btn btn-outline-secondary" href="{{ url_for('history.history') }}">View History</a>
+    </div>
+  </div>
+
+  {% if stats %}
+  <div class="row g-3 mb-4">
+    <div class="col-md-4">
+      <div class="metric-card">
+        <p class="small text-uppercase text-secondary mb-2">Transactions</p>
+        <h2 class="display-6 mb-0">{{ stats.total_transactions }}</h2>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="metric-card">
+        <p class="small text-uppercase text-secondary mb-2">Date Range</p>
+        <h2 class="h5 mb-0">{{ stats.start_date }} to {{ stats.end_date }}</h2>
+      </div>
+    </div>
+    <div class="col-md-4">
+      <div class="metric-card">
+        <p class="small text-uppercase text-secondary mb-2">Top Categories</p>
+        {% for category, total in stats.top_categories %}
+        <div class="d-flex justify-content-between small mb-1">
+          <span>{{ category.replace('_', ' ')|title }}</span>
+          <strong>${{ "%.2f"|format(total) }}</strong>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+  {% else %}
+  <div class="empty-state-card rounded-4 p-4">
+    <h2 class="h4 mb-2">No data yet.</h2>
+    <p class="text-secondary mb-3">Upload your transactions to get started and unlock your first spending summary.</p>
+    <a class="btn btn-primary" href="{{ url_for('ingestion.index') }}">Upload Transactions</a>
+  </div>
+  {% endif %}
+</section>
+{% endblock %}

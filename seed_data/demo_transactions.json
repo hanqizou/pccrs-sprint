@@ -1,0 +1,1228 @@
+{
+  "transactions": [
+    {
+      "date": "2025-09-01",
+      "description": "Nike",
+      "amount_cents": 9547,
+      "mcc_code": "5942"
+    },
+    {
+      "date": "2025-09-01",
+      "description": "Shake Shack",
+      "amount_cents": 8993,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2025-09-01",
+      "description": "Whole Foods",
+      "amount_cents": 8711,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2025-09-04",
+      "description": "Shell",
+      "amount_cents": 7291,
+      "mcc_code": "5541"
+    },
+    {
+      "date": "2025-09-06",
+      "description": "CVS",
+      "amount_cents": 6885,
+      "mcc_code": "5999"
+    },
+    {
+      "date": "2025-09-07",
+      "description": "Chipotle",
+      "amount_cents": 7782,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2025-09-07",
+      "description": "Delta",
+      "amount_cents": 7782,
+      "mcc_code": "4511"
+    },
+    {
+      "date": "2025-09-07",
+      "description": "Exxon",
+      "amount_cents": 7464,
+      "mcc_code": "5541"
+    },
+    {
+      "date": "2025-09-09",
+      "description": "Walgreens",
+      "amount_cents": 7058,
+      "mcc_code": "5999"
+    },
+    {
+      "date": "2025-09-10",
+      "description": "BP",
+      "amount_cents": 7637,
+      "mcc_code": "5541"
+    },
+    {
+      "date": "2025-09-10",
+      "description": "Duke Energy",
+      "amount_cents": 7673,
+      "mcc_code": "4900"
+    },
+    {
+      "date": "2025-09-10",
+      "description": "Sweetgreen",
+      "amount_cents": 7955,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2025-09-10",
+      "description": "Trader Joe's",
+      "amount_cents": 7673,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2025-09-10",
+      "description": "United",
+      "amount_cents": 7955,
+      "mcc_code": "4511"
+    },
+    {
+      "date": "2025-09-13",
+      "description": "AT&T",
+      "amount_cents": 7846,
+      "mcc_code": "4900"
+    },
+    {
+      "date": "2025-09-13",
+      "description": "Hilton",
+      "amount_cents": 8128,
+      "mcc_code": "4511"
+    },
+    {
+      "date": "2025-09-13",
+      "description": "Shake Shack",
+      "amount_cents": 8128,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2025-09-13",
+      "description": "Whole Foods",
+      "amount_cents": 7846,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2025-09-14",
+      "description": "AMC",
+      "amount_cents": 10661,
+      "mcc_code": "7832"
+    },
+    {
+      "date": "2025-09-16",
+      "description": "Amazon",
+      "amount_cents": 8855,
+      "mcc_code": "5942"
+    },
+    {
+      "date": "2025-09-16",
+      "description": "Cava",
+      "amount_cents": 8301,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2025-09-16",
+      "description": "Marriott",
+      "amount_cents": 8301,
+      "mcc_code": "4511"
+    },
+    {
+      "date": "2025-09-16",
+      "description": "Target Grocery",
+      "amount_cents": 8019,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2025-09-17",
+      "description": "Spotify",
+      "amount_cents": 10834,
+      "mcc_code": "7832"
+    },
+    {
+      "date": "2025-09-19",
+      "description": "Kroger",
+      "amount_cents": 8192,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2025-09-19",
+      "description": "Panera",
+      "amount_cents": 8474,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2025-09-19",
+      "description": "Uber Travel",
+      "amount_cents": 8474,
+      "mcc_code": "4511"
+    },
+    {
+      "date": "2025-09-19",
+      "description": "eBay",
+      "amount_cents": 9028,
+      "mcc_code": "5942"
+    },
+    {
+      "date": "2025-09-22",
+      "description": "Chipotle",
+      "amount_cents": 8647,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2025-09-22",
+      "description": "Etsy",
+      "amount_cents": 9201,
+      "mcc_code": "5942"
+    },
+    {
+      "date": "2025-09-22",
+      "description": "H Mart",
+      "amount_cents": 8365,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2025-09-25",
+      "description": "Best Buy",
+      "amount_cents": 9374,
+      "mcc_code": "5942"
+    },
+    {
+      "date": "2025-09-25",
+      "description": "Sweetgreen",
+      "amount_cents": 8820,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2025-09-25",
+      "description": "Trader Joe's",
+      "amount_cents": 8538,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2025-10-03",
+      "description": "Best Buy",
+      "amount_cents": 9585,
+      "mcc_code": "5942"
+    },
+    {
+      "date": "2025-10-03",
+      "description": "Panera",
+      "amount_cents": 9031,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2025-10-03",
+      "description": "Target Grocery",
+      "amount_cents": 8749,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2025-10-06",
+      "description": "Chipotle",
+      "amount_cents": 9204,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2025-10-06",
+      "description": "Kroger",
+      "amount_cents": 8922,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2025-10-06",
+      "description": "Nike",
+      "amount_cents": 9758,
+      "mcc_code": "5942"
+    },
+    {
+      "date": "2025-10-09",
+      "description": "Mobil",
+      "amount_cents": 7502,
+      "mcc_code": "5541"
+    },
+    {
+      "date": "2025-10-11",
+      "description": "IKEA",
+      "amount_cents": 7096,
+      "mcc_code": "5999"
+    },
+    {
+      "date": "2025-10-12",
+      "description": "Cava",
+      "amount_cents": 7993,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2025-10-12",
+      "description": "Delta",
+      "amount_cents": 7993,
+      "mcc_code": "4511"
+    },
+    {
+      "date": "2025-10-12",
+      "description": "Speedway",
+      "amount_cents": 7675,
+      "mcc_code": "5541"
+    },
+    {
+      "date": "2025-10-14",
+      "description": "PetSmart",
+      "amount_cents": 7269,
+      "mcc_code": "5999"
+    },
+    {
+      "date": "2025-10-15",
+      "description": "Panera",
+      "amount_cents": 8166,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2025-10-15",
+      "description": "Shell",
+      "amount_cents": 7848,
+      "mcc_code": "5541"
+    },
+    {
+      "date": "2025-10-15",
+      "description": "Target Grocery",
+      "amount_cents": 7884,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2025-10-15",
+      "description": "United",
+      "amount_cents": 8166,
+      "mcc_code": "4511"
+    },
+    {
+      "date": "2025-10-15",
+      "description": "Verizon",
+      "amount_cents": 7884,
+      "mcc_code": "4900"
+    },
+    {
+      "date": "2025-10-18",
+      "description": "Chipotle",
+      "amount_cents": 8339,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2025-10-18",
+      "description": "Hilton",
+      "amount_cents": 8339,
+      "mcc_code": "4511"
+    },
+    {
+      "date": "2025-10-18",
+      "description": "Kroger",
+      "amount_cents": 8057,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2025-10-18",
+      "description": "Water Utility",
+      "amount_cents": 8057,
+      "mcc_code": "4900"
+    },
+    {
+      "date": "2025-10-19",
+      "description": "Netflix",
+      "amount_cents": 10872,
+      "mcc_code": "7832"
+    },
+    {
+      "date": "2025-10-21",
+      "description": "Amazon",
+      "amount_cents": 9066,
+      "mcc_code": "5942"
+    },
+    {
+      "date": "2025-10-21",
+      "description": "H Mart",
+      "amount_cents": 8230,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2025-10-21",
+      "description": "Marriott",
+      "amount_cents": 8512,
+      "mcc_code": "4511"
+    },
+    {
+      "date": "2025-10-21",
+      "description": "Sweetgreen",
+      "amount_cents": 8512,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2025-10-22",
+      "description": "StubHub",
+      "amount_cents": 11045,
+      "mcc_code": "7832"
+    },
+    {
+      "date": "2025-10-24",
+      "description": "Shake Shack",
+      "amount_cents": 8685,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2025-10-24",
+      "description": "Trader Joe's",
+      "amount_cents": 8403,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2025-10-24",
+      "description": "Uber Travel",
+      "amount_cents": 8685,
+      "mcc_code": "4511"
+    },
+    {
+      "date": "2025-10-24",
+      "description": "eBay",
+      "amount_cents": 9239,
+      "mcc_code": "5942"
+    },
+    {
+      "date": "2025-10-27",
+      "description": "Cava",
+      "amount_cents": 8858,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2025-10-27",
+      "description": "Etsy",
+      "amount_cents": 9412,
+      "mcc_code": "5942"
+    },
+    {
+      "date": "2025-10-27",
+      "description": "Whole Foods",
+      "amount_cents": 8576,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2025-11-02",
+      "description": "Chipotle",
+      "amount_cents": 8896,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2025-11-02",
+      "description": "Target Grocery",
+      "amount_cents": 8614,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2025-11-02",
+      "description": "Uber Travel",
+      "amount_cents": 8896,
+      "mcc_code": "4511"
+    },
+    {
+      "date": "2025-11-02",
+      "description": "eBay",
+      "amount_cents": 9450,
+      "mcc_code": "5942"
+    },
+    {
+      "date": "2025-11-05",
+      "description": "Etsy",
+      "amount_cents": 9623,
+      "mcc_code": "5942"
+    },
+    {
+      "date": "2025-11-05",
+      "description": "Kroger",
+      "amount_cents": 8787,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2025-11-05",
+      "description": "Sweetgreen",
+      "amount_cents": 9069,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2025-11-08",
+      "description": "Best Buy",
+      "amount_cents": 9796,
+      "mcc_code": "5942"
+    },
+    {
+      "date": "2025-11-08",
+      "description": "H Mart",
+      "amount_cents": 8960,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2025-11-08",
+      "description": "Shake Shack",
+      "amount_cents": 9242,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2025-11-11",
+      "description": "Cava",
+      "amount_cents": 9415,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2025-11-11",
+      "description": "Nike",
+      "amount_cents": 9969,
+      "mcc_code": "5942"
+    },
+    {
+      "date": "2025-11-11",
+      "description": "Trader Joe's",
+      "amount_cents": 9133,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2025-11-14",
+      "description": "Exxon",
+      "amount_cents": 7713,
+      "mcc_code": "5541"
+    },
+    {
+      "date": "2025-11-16",
+      "description": "Office Depot",
+      "amount_cents": 7307,
+      "mcc_code": "5999"
+    },
+    {
+      "date": "2025-11-17",
+      "description": "BP",
+      "amount_cents": 7886,
+      "mcc_code": "5541"
+    },
+    {
+      "date": "2025-11-17",
+      "description": "Delta",
+      "amount_cents": 8204,
+      "mcc_code": "4511"
+    },
+    {
+      "date": "2025-11-17",
+      "description": "Sweetgreen",
+      "amount_cents": 8204,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2025-11-19",
+      "description": "CVS",
+      "amount_cents": 7480,
+      "mcc_code": "5999"
+    },
+    {
+      "date": "2025-11-20",
+      "description": "H Mart",
+      "amount_cents": 8095,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2025-11-20",
+      "description": "Internet Provider",
+      "amount_cents": 8095,
+      "mcc_code": "4900"
+    },
+    {
+      "date": "2025-11-20",
+      "description": "Mobil",
+      "amount_cents": 8059,
+      "mcc_code": "5541"
+    },
+    {
+      "date": "2025-11-20",
+      "description": "Shake Shack",
+      "amount_cents": 8377,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2025-11-20",
+      "description": "United",
+      "amount_cents": 8377,
+      "mcc_code": "4511"
+    },
+    {
+      "date": "2025-11-23",
+      "description": "Cava",
+      "amount_cents": 8550,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2025-11-23",
+      "description": "Duke Energy",
+      "amount_cents": 8268,
+      "mcc_code": "4900"
+    },
+    {
+      "date": "2025-11-23",
+      "description": "Hilton",
+      "amount_cents": 8550,
+      "mcc_code": "4511"
+    },
+    {
+      "date": "2025-11-23",
+      "description": "Trader Joe's",
+      "amount_cents": 8268,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2025-11-24",
+      "description": "Steam",
+      "amount_cents": 11083,
+      "mcc_code": "7832"
+    },
+    {
+      "date": "2025-11-26",
+      "description": "Amazon",
+      "amount_cents": 9277,
+      "mcc_code": "5942"
+    },
+    {
+      "date": "2025-11-26",
+      "description": "Marriott",
+      "amount_cents": 8723,
+      "mcc_code": "4511"
+    },
+    {
+      "date": "2025-11-26",
+      "description": "Panera",
+      "amount_cents": 8723,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2025-11-26",
+      "description": "Whole Foods",
+      "amount_cents": 8441,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2025-11-27",
+      "description": "AMC",
+      "amount_cents": 11256,
+      "mcc_code": "7832"
+    },
+    {
+      "date": "2025-12-01",
+      "description": "Hilton",
+      "amount_cents": 8761,
+      "mcc_code": "4511"
+    },
+    {
+      "date": "2025-12-01",
+      "description": "Sweetgreen",
+      "amount_cents": 8761,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2025-12-01",
+      "description": "Target Grocery",
+      "amount_cents": 8479,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2025-12-01",
+      "description": "Verizon",
+      "amount_cents": 6879,
+      "mcc_code": "4900"
+    },
+    {
+      "date": "2025-12-02",
+      "description": "Spotify",
+      "amount_cents": 11294,
+      "mcc_code": "7832"
+    },
+    {
+      "date": "2025-12-04",
+      "description": "Amazon",
+      "amount_cents": 9488,
+      "mcc_code": "5942"
+    },
+    {
+      "date": "2025-12-04",
+      "description": "Kroger",
+      "amount_cents": 8652,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2025-12-04",
+      "description": "Marriott",
+      "amount_cents": 8934,
+      "mcc_code": "4511"
+    },
+    {
+      "date": "2025-12-04",
+      "description": "Shake Shack",
+      "amount_cents": 8934,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2025-12-05",
+      "description": "Netflix",
+      "amount_cents": 11467,
+      "mcc_code": "7832"
+    },
+    {
+      "date": "2025-12-07",
+      "description": "Cava",
+      "amount_cents": 9107,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2025-12-07",
+      "description": "H Mart",
+      "amount_cents": 8825,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2025-12-07",
+      "description": "Uber Travel",
+      "amount_cents": 9107,
+      "mcc_code": "4511"
+    },
+    {
+      "date": "2025-12-07",
+      "description": "eBay",
+      "amount_cents": 9661,
+      "mcc_code": "5942"
+    },
+    {
+      "date": "2025-12-10",
+      "description": "Etsy",
+      "amount_cents": 9834,
+      "mcc_code": "5942"
+    },
+    {
+      "date": "2025-12-10",
+      "description": "Panera",
+      "amount_cents": 9280,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2025-12-10",
+      "description": "Trader Joe's",
+      "amount_cents": 8998,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2025-12-13",
+      "description": "Best Buy",
+      "amount_cents": 10007,
+      "mcc_code": "5942"
+    },
+    {
+      "date": "2025-12-13",
+      "description": "Chipotle",
+      "amount_cents": 9453,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2025-12-13",
+      "description": "Whole Foods",
+      "amount_cents": 9171,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2025-12-16",
+      "description": "Nike",
+      "amount_cents": 10180,
+      "mcc_code": "5942"
+    },
+    {
+      "date": "2025-12-16",
+      "description": "Sweetgreen",
+      "amount_cents": 9626,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2025-12-16",
+      "description": "Target Grocery",
+      "amount_cents": 9344,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2025-12-19",
+      "description": "Speedway",
+      "amount_cents": 7924,
+      "mcc_code": "5541"
+    },
+    {
+      "date": "2025-12-21",
+      "description": "Walgreens",
+      "amount_cents": 7518,
+      "mcc_code": "5999"
+    },
+    {
+      "date": "2025-12-22",
+      "description": "Delta",
+      "amount_cents": 8415,
+      "mcc_code": "4511"
+    },
+    {
+      "date": "2025-12-22",
+      "description": "Panera",
+      "amount_cents": 8415,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2025-12-22",
+      "description": "Shell",
+      "amount_cents": 8097,
+      "mcc_code": "5541"
+    },
+    {
+      "date": "2025-12-24",
+      "description": "IKEA",
+      "amount_cents": 7691,
+      "mcc_code": "5999"
+    },
+    {
+      "date": "2025-12-25",
+      "description": "AT&T",
+      "amount_cents": 8306,
+      "mcc_code": "4900"
+    },
+    {
+      "date": "2025-12-25",
+      "description": "Chipotle",
+      "amount_cents": 8588,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2025-12-25",
+      "description": "Exxon",
+      "amount_cents": 8270,
+      "mcc_code": "5541"
+    },
+    {
+      "date": "2025-12-25",
+      "description": "United",
+      "amount_cents": 8588,
+      "mcc_code": "4511"
+    },
+    {
+      "date": "2025-12-25",
+      "description": "Whole Foods",
+      "amount_cents": 8306,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2026-01-02",
+      "description": "Office Depot",
+      "amount_cents": 7902,
+      "mcc_code": "5999"
+    },
+    {
+      "date": "2026-01-03",
+      "description": "Cava",
+      "amount_cents": 8799,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2026-01-03",
+      "description": "Kroger",
+      "amount_cents": 8517,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2026-01-03",
+      "description": "Speedway",
+      "amount_cents": 8481,
+      "mcc_code": "5541"
+    },
+    {
+      "date": "2026-01-03",
+      "description": "United",
+      "amount_cents": 8799,
+      "mcc_code": "4511"
+    },
+    {
+      "date": "2026-01-03",
+      "description": "Water Utility",
+      "amount_cents": 6917,
+      "mcc_code": "4900"
+    },
+    {
+      "date": "2026-01-06",
+      "description": "H Mart",
+      "amount_cents": 8690,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2026-01-06",
+      "description": "Hilton",
+      "amount_cents": 8972,
+      "mcc_code": "4511"
+    },
+    {
+      "date": "2026-01-06",
+      "description": "Internet Provider",
+      "amount_cents": 7090,
+      "mcc_code": "4900"
+    },
+    {
+      "date": "2026-01-06",
+      "description": "Panera",
+      "amount_cents": 8972,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2026-01-07",
+      "description": "StubHub",
+      "amount_cents": 11505,
+      "mcc_code": "7832"
+    },
+    {
+      "date": "2026-01-09",
+      "description": "Amazon",
+      "amount_cents": 9699,
+      "mcc_code": "5942"
+    },
+    {
+      "date": "2026-01-09",
+      "description": "Chipotle",
+      "amount_cents": 9145,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2026-01-09",
+      "description": "Marriott",
+      "amount_cents": 9145,
+      "mcc_code": "4511"
+    },
+    {
+      "date": "2026-01-09",
+      "description": "Trader Joe's",
+      "amount_cents": 8863,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2026-01-10",
+      "description": "Steam",
+      "amount_cents": 9478,
+      "mcc_code": "7832"
+    },
+    {
+      "date": "2026-01-12",
+      "description": "Sweetgreen",
+      "amount_cents": 9318,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2026-01-12",
+      "description": "Uber Travel",
+      "amount_cents": 9318,
+      "mcc_code": "4511"
+    },
+    {
+      "date": "2026-01-12",
+      "description": "Whole Foods",
+      "amount_cents": 9036,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2026-01-12",
+      "description": "eBay",
+      "amount_cents": 9872,
+      "mcc_code": "5942"
+    },
+    {
+      "date": "2026-01-15",
+      "description": "Etsy",
+      "amount_cents": 10045,
+      "mcc_code": "5942"
+    },
+    {
+      "date": "2026-01-15",
+      "description": "Shake Shack",
+      "amount_cents": 9491,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2026-01-15",
+      "description": "Target Grocery",
+      "amount_cents": 9209,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2026-01-18",
+      "description": "Best Buy",
+      "amount_cents": 10218,
+      "mcc_code": "5942"
+    },
+    {
+      "date": "2026-01-18",
+      "description": "Cava",
+      "amount_cents": 9664,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2026-01-18",
+      "description": "Kroger",
+      "amount_cents": 9382,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2026-01-21",
+      "description": "H Mart",
+      "amount_cents": 9555,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2026-01-21",
+      "description": "Nike",
+      "amount_cents": 10391,
+      "mcc_code": "5942"
+    },
+    {
+      "date": "2026-01-21",
+      "description": "Panera",
+      "amount_cents": 9837,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2026-01-24",
+      "description": "BP",
+      "amount_cents": 8135,
+      "mcc_code": "5541"
+    },
+    {
+      "date": "2026-01-26",
+      "description": "PetSmart",
+      "amount_cents": 7729,
+      "mcc_code": "5999"
+    },
+    {
+      "date": "2026-01-27",
+      "description": "Delta",
+      "amount_cents": 8626,
+      "mcc_code": "4511"
+    },
+    {
+      "date": "2026-01-27",
+      "description": "Mobil",
+      "amount_cents": 8308,
+      "mcc_code": "5541"
+    },
+    {
+      "date": "2026-01-27",
+      "description": "Shake Shack",
+      "amount_cents": 8626,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2026-02-02",
+      "description": "Shell",
+      "amount_cents": 8346,
+      "mcc_code": "5541"
+    },
+    {
+      "date": "2026-02-04",
+      "description": "CVS",
+      "amount_cents": 7940,
+      "mcc_code": "5999"
+    },
+    {
+      "date": "2026-02-05",
+      "description": "Chipotle",
+      "amount_cents": 8837,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2026-02-05",
+      "description": "Delta",
+      "amount_cents": 8837,
+      "mcc_code": "4511"
+    },
+    {
+      "date": "2026-02-05",
+      "description": "Exxon",
+      "amount_cents": 8519,
+      "mcc_code": "5541"
+    },
+    {
+      "date": "2026-02-07",
+      "description": "Walgreens",
+      "amount_cents": 8113,
+      "mcc_code": "5999"
+    },
+    {
+      "date": "2026-02-08",
+      "description": "BP",
+      "amount_cents": 8692,
+      "mcc_code": "5541"
+    },
+    {
+      "date": "2026-02-08",
+      "description": "Duke Energy",
+      "amount_cents": 7128,
+      "mcc_code": "4900"
+    },
+    {
+      "date": "2026-02-08",
+      "description": "Sweetgreen",
+      "amount_cents": 9010,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2026-02-08",
+      "description": "Trader Joe's",
+      "amount_cents": 8728,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2026-02-08",
+      "description": "United",
+      "amount_cents": 9010,
+      "mcc_code": "4511"
+    },
+    {
+      "date": "2026-02-11",
+      "description": "AT&T",
+      "amount_cents": 7301,
+      "mcc_code": "4900"
+    },
+    {
+      "date": "2026-02-11",
+      "description": "Hilton",
+      "amount_cents": 9183,
+      "mcc_code": "4511"
+    },
+    {
+      "date": "2026-02-11",
+      "description": "Shake Shack",
+      "amount_cents": 9183,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2026-02-11",
+      "description": "Whole Foods",
+      "amount_cents": 8901,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2026-02-12",
+      "description": "AMC",
+      "amount_cents": 9516,
+      "mcc_code": "7832"
+    },
+    {
+      "date": "2026-02-14",
+      "description": "Amazon",
+      "amount_cents": 9910,
+      "mcc_code": "5942"
+    },
+    {
+      "date": "2026-02-14",
+      "description": "Cava",
+      "amount_cents": 9356,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2026-02-14",
+      "description": "Marriott",
+      "amount_cents": 9356,
+      "mcc_code": "4511"
+    },
+    {
+      "date": "2026-02-14",
+      "description": "Target Grocery",
+      "amount_cents": 9074,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2026-02-15",
+      "description": "Spotify",
+      "amount_cents": 9689,
+      "mcc_code": "7832"
+    },
+    {
+      "date": "2026-02-17",
+      "description": "Kroger",
+      "amount_cents": 9247,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2026-02-17",
+      "description": "Panera",
+      "amount_cents": 9529,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2026-02-17",
+      "description": "Uber Travel",
+      "amount_cents": 9529,
+      "mcc_code": "4511"
+    },
+    {
+      "date": "2026-02-17",
+      "description": "eBay",
+      "amount_cents": 10083,
+      "mcc_code": "5942"
+    },
+    {
+      "date": "2026-02-20",
+      "description": "Chipotle",
+      "amount_cents": 9702,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2026-02-20",
+      "description": "Etsy",
+      "amount_cents": 10256,
+      "mcc_code": "5942"
+    },
+    {
+      "date": "2026-02-20",
+      "description": "H Mart",
+      "amount_cents": 9420,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2026-02-23",
+      "description": "Best Buy",
+      "amount_cents": 10429,
+      "mcc_code": "5942"
+    },
+    {
+      "date": "2026-02-23",
+      "description": "Sweetgreen",
+      "amount_cents": 9875,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2026-02-23",
+      "description": "Trader Joe's",
+      "amount_cents": 9593,
+      "mcc_code": "5411"
+    },
+    {
+      "date": "2026-02-26",
+      "description": "Nike",
+      "amount_cents": 10602,
+      "mcc_code": "5942"
+    },
+    {
+      "date": "2026-02-26",
+      "description": "Shake Shack",
+      "amount_cents": 10048,
+      "mcc_code": "5812"
+    },
+    {
+      "date": "2026-02-26",
+      "description": "Whole Foods",
+      "amount_cents": 9766,
+      "mcc_code": "5411"
+    }
+  ]
+}

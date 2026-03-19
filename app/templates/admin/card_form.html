@@ -1,0 +1,78 @@
+{% extends "base.html" %}
+{% block title %}{{ mode }} Card{% endblock %}
+{% block content %}
+<div class="row justify-content-center">
+  <div class="col-xl-9">
+    <div class="card shadow-sm">
+      <div class="card-body p-4">
+        <h1 class="h3 mb-4">{{ mode }} Card</h1>
+        <form method="post">
+          {{ form.hidden_tag() }}
+          <div class="row g-3">
+            <div class="col-md-6">
+              {{ form.card_id.label(class="form-label") }}
+              {{ form.card_id(class="form-control") }}
+              {% for error in form.card_id.errors %}<div class="form-text text-danger">{{ error }}</div>{% endfor %}
+            </div>
+            <div class="col-md-6">
+              {{ form.name.label(class="form-label") }}
+              {{ form.name(class="form-control") }}
+              {% for error in form.name.errors %}<div class="form-text text-danger">{{ error }}</div>{% endfor %}
+            </div>
+            <div class="col-md-4">
+              {{ form.issuer.label(class="form-label") }}
+              {{ form.issuer(class="form-control") }}
+              {% for error in form.issuer.errors %}<div class="form-text text-danger">{{ error }}</div>{% endfor %}
+            </div>
+            <div class="col-md-4">
+              {{ form.annual_fee.label(class="form-label") }}
+              {{ form.annual_fee(class="form-control") }}
+              {% for error in form.annual_fee.errors %}<div class="form-text text-danger">{{ error }}</div>{% endfor %}
+            </div>
+            <div class="col-md-4">
+              {{ form.base_reward_rate.label(class="form-label") }}
+              {{ form.base_reward_rate(class="form-control") }}
+              {% for error in form.base_reward_rate.errors %}<div class="form-text text-danger">{{ error }}</div>{% endfor %}
+            </div>
+            <div class="col-md-4">
+              {{ form.credit_utilization_rate.label(class="form-label") }}
+              {{ form.credit_utilization_rate(class="form-control") }}
+              {% for error in form.credit_utilization_rate.errors %}<div class="form-text text-danger">{{ error }}</div>{% endfor %}
+            </div>
+            <div class="col-md-8 d-flex align-items-end">
+              <div class="form-check mt-2">
+                {{ form.is_active(class="form-check-input") }}
+                {{ form.is_active.label(class="form-check-label") }}
+              </div>
+            </div>
+            <div class="col-12">
+              {{ form.category_multipliers_json.label(class="form-label") }}
+              {{ form.category_multipliers_json(class="form-control", rows="6") }}
+              {% for error in form.category_multipliers_json.errors %}<div class="form-text text-danger">{{ error }}</div>{% endfor %}
+            </div>
+            <div class="col-md-6">
+              {{ form.credits_json.label(class="form-label") }}
+              {{ form.credits_json(class="form-control", rows="6") }}
+              {% for error in form.credits_json.errors %}<div class="form-text text-danger">{{ error }}</div>{% endfor %}
+            </div>
+            <div class="col-md-6">
+              {{ form.transfer_partners_json.label(class="form-label") }}
+              {{ form.transfer_partners_json(class="form-control", rows="6") }}
+              {% for error in form.transfer_partners_json.errors %}<div class="form-text text-danger">{{ error }}</div>{% endfor %}
+            </div>
+            <div class="col-12">
+              {{ form.category_caps_json.label(class="form-label") }}
+              {{ form.category_caps_json(class="form-control", rows="4") }}
+              {% for error in form.category_caps_json.errors %}<div class="form-text text-danger">{{ error }}</div>{% endfor %}
+            </div>
+          </div>
+          <div class="mt-4 d-flex gap-2">
+            {{ form.submit(class="btn btn-primary") }}
+            <a class="btn btn-outline-secondary" href="{{ url_for('admin.cards') }}">Cancel</a>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}

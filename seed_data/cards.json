@@ -1,0 +1,221 @@
+[
+  {
+    "card_id": "chase-sapphire-preferred",
+    "name": "Chase Sapphire Preferred",
+    "issuer": "Chase",
+    "annual_fee": 95,
+    "base_reward_rate": 1.0,
+    "category_multipliers": {
+      "dining": 3,
+      "travel": 2
+    },
+    "credits": {},
+    "credit_utilization_rate": 1.0,
+    "transfer_partners": {
+      "hyatt": {"ratio": 1.0, "cpp": 2.0},
+      "united": {"ratio": 1.0, "cpp": 1.5},
+      "southwest": {"ratio": 1.0, "cpp": 1.4}
+    },
+    "category_caps": {}
+  },
+  {
+    "card_id": "chase-sapphire-reserve",
+    "name": "Chase Sapphire Reserve",
+    "issuer": "Chase",
+    "annual_fee": 550,
+    "base_reward_rate": 1.0,
+    "category_multipliers": {
+      "dining": 3,
+      "travel": 3
+    },
+    "credits": {
+      "travel": 300
+    },
+    "credit_utilization_rate": 0.95,
+    "transfer_partners": {
+      "hyatt": {"ratio": 1.0, "cpp": 2.0},
+      "united": {"ratio": 1.0, "cpp": 1.5},
+      "southwest": {"ratio": 1.0, "cpp": 1.4}
+    },
+    "category_caps": {}
+  },
+  {
+    "card_id": "amex-gold",
+    "name": "American Express Gold",
+    "issuer": "Amex",
+    "annual_fee": 250,
+    "base_reward_rate": 1.0,
+    "category_multipliers": {
+      "dining": 4,
+      "groceries": 4,
+      "travel": 3
+    },
+    "credits": {
+      "dining": 120,
+      "uber": 120
+    },
+    "credit_utilization_rate": 0.85,
+    "transfer_partners": {
+      "delta": {"ratio": 1.0, "cpp": 1.3},
+      "air-france-klm": {"ratio": 1.0, "cpp": 1.4}
+    },
+    "category_caps": {
+      "groceries": {"max_annual": 25000}
+    }
+  },
+  {
+    "card_id": "amex-platinum",
+    "name": "American Express Platinum",
+    "issuer": "Amex",
+    "annual_fee": 695,
+    "base_reward_rate": 1.0,
+    "category_multipliers": {
+      "travel": 5
+    },
+    "credits": {
+      "airline": 200,
+      "hotel": 200,
+      "uber": 200
+    },
+    "credit_utilization_rate": 0.75,
+    "transfer_partners": {
+      "delta": {"ratio": 1.0, "cpp": 1.3},
+      "air-france-klm": {"ratio": 1.0, "cpp": 1.4}
+    },
+    "category_caps": {}
+  },
+  {
+    "card_id": "citi-double-cash",
+    "name": "Citi Double Cash",
+    "issuer": "Citi",
+    "annual_fee": 0,
+    "base_reward_rate": 2.0,
+    "category_multipliers": {},
+    "credits": {},
+    "credit_utilization_rate": 1.0,
+    "transfer_partners": {},
+    "category_caps": {}
+  },
+  {
+    "card_id": "capital-one-venture-x",
+    "name": "Capital One Venture X",
+    "issuer": "Capital One",
+    "annual_fee": 395,
+    "base_reward_rate": 2.0,
+    "category_multipliers": {
+      "travel": 2
+    },
+    "credits": {
+      "travel": 300
+    },
+    "credit_utilization_rate": 0.9,
+    "transfer_partners": {
+      "air-canada": {"ratio": 1.0, "cpp": 1.5},
+      "british-airways": {"ratio": 1.0, "cpp": 1.4}
+    },
+    "category_caps": {}
+  },
+  {
+    "card_id": "chase-freedom-unlimited",
+    "name": "Chase Freedom Unlimited",
+    "issuer": "Chase",
+    "annual_fee": 0,
+    "base_reward_rate": 1.5,
+    "category_multipliers": {
+      "dining": 3,
+      "drugstores": 3
+    },
+    "credits": {},
+    "credit_utilization_rate": 1.0,
+    "transfer_partners": {},
+    "category_caps": {}
+  },
+  {
+    "card_id": "chase-freedom-flex",
+    "name": "Chase Freedom Flex",
+    "issuer": "Chase",
+    "annual_fee": 0,
+    "base_reward_rate": 1.0,
+    "category_multipliers": {
+      "dining": 3,
+      "drugstores": 3,
+      "online_shopping": 5
+    },
+    "credits": {},
+    "credit_utilization_rate": 1.0,
+    "transfer_partners": {},
+    "category_caps": {
+      "online_shopping": {"max_annual": 1500}
+    }
+  },
+  {
+    "card_id": "us-bank-altitude-go",
+    "name": "US Bank Altitude Go",
+    "issuer": "US Bank",
+    "annual_fee": 0,
+    "base_reward_rate": 1.0,
+    "category_multipliers": {
+      "dining": 4,
+      "groceries": 2
+    },
+    "credits": {},
+    "credit_utilization_rate": 1.0,
+    "transfer_partners": {},
+    "category_caps": {}
+  },
+  {
+    "card_id": "citi-premier",
+    "name": "Citi Premier",
+    "issuer": "Citi",
+    "annual_fee": 95,
+    "base_reward_rate": 1.0,
+    "category_multipliers": {
+      "travel": 3,
+      "dining": 3,
+      "groceries": 3,
+      "gas": 3
+    },
+    "credits": {
+      "hotel": 100
+    },
+    "credit_utilization_rate": 0.7,
+    "transfer_partners": {
+      "jetblue": {"ratio": 1.0, "cpp": 1.3},
+      "choice": {"ratio": 1.0, "cpp": 1.6}
+    },
+    "category_caps": {}
+  },
+  {
+    "card_id": "capital-one-savorone",
+    "name": "Capital One SavorOne",
+    "issuer": "Capital One",
+    "annual_fee": 0,
+    "base_reward_rate": 1.0,
+    "category_multipliers": {
+      "dining": 3,
+      "entertainment": 3,
+      "groceries": 3
+    },
+    "credits": {},
+    "credit_utilization_rate": 1.0,
+    "transfer_partners": {},
+    "category_caps": {}
+  },
+  {
+    "card_id": "wells-fargo-autograph",
+    "name": "Wells Fargo Autograph",
+    "issuer": "Wells Fargo",
+    "annual_fee": 0,
+    "base_reward_rate": 1.0,
+    "category_multipliers": {
+      "dining": 3,
+      "travel": 3,
+      "gas": 3
+    },
+    "credits": {},
+    "credit_utilization_rate": 1.0,
+    "transfer_partners": {},
+    "category_caps": {}
+  }
+]
+

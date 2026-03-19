@@ -1,0 +1,41 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background:
+    radial-gradient(circle at top right, rgba(15, 98, 254, 0.08), transparent 28%),
+    linear-gradient(180deg, #f4f7fb 0%, #eef2f8 100%);
+}
+
+.navbar-brand {
+  letter-spacing: 0.02em;
+}
+
+.home-hero {
+  background: linear-gradient(135deg, #0f2847 0%, #155f9a 58%, #2ba3c7 100%);
+}
+
+.home-hero-panel {
+  background: rgba(255, 255, 255, 0.92);
+}
+
+.home-stat-card,
+.feature-tile,
+.metric-card,
+.empty-state-card {
+  background: rgba(255, 255, 255, 0.92);
+  border: 1px solid rgba(18, 39, 63, 0.08);
+  border-radius: 1rem;
+  padding: 1.5rem;
+  box-shadow: 0 12px 28px rgba(18, 39, 63, 0.08);
+}
+
+.feature-tile {
+  height: 100%;
+}
+
+.dashboard-shell {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.96), rgba(248, 251, 255, 0.96));
+}
+
+.dashboard-actions .btn {
+  min-width: 10rem;
+}

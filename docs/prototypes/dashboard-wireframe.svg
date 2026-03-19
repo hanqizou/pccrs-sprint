@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+  <rect width="900" height="600" fill="#eef2f8"/>
+  <rect x="40" y="30" width="820" height="50" rx="8" fill="#d7e3f4"/>
+  <text x="60" y="62" font-family="Arial" font-size="20" fill="#1f2d3d">Dashboard</text>
+  <rect x="40" y="110" width="820" height="120" rx="16" fill="#ffffff" stroke="#c8d1dc"/>
+  <text x="70" y="160" font-family="Arial" font-size="30" fill="#1f2d3d">Welcome message + action buttons</text>
+  <rect x="70" y="255" width="240" height="130" rx="16" fill="#ffffff" stroke="#c8d1dc"/>
+  <rect x="330" y="255" width="240" height="130" rx="16" fill="#ffffff" stroke="#c8d1dc"/>
+  <rect x="590" y="255" width="270" height="130" rx="16" fill="#ffffff" stroke="#c8d1dc"/>
+  <text x="120" y="320" font-family="Arial" font-size="20" fill="#1f2d3d">Transaction count</text>
+  <text x="390" y="320" font-family="Arial" font-size="20" fill="#1f2d3d">Date range</text>
+  <text x="660" y="320" font-family="Arial" font-size="20" fill="#1f2d3d">Top categories</text>
+  <rect x="40" y="420" width="820" height="120" rx="16" fill="#ffffff" stroke="#c8d1dc"/>
+  <text x="70" y="485" font-family="Arial" font-size="24" fill="#1f2d3d">Empty state or additional summary section</text>
+</svg>
+

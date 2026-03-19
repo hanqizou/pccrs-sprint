@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+  <rect width="900" height="600" fill="#f6f7fb"/>
+  <rect x="40" y="30" width="820" height="50" rx="8" fill="#d7e3f4"/>
+  <text x="60" y="62" font-family="Arial" font-size="20" fill="#1f2d3d">Home / Landing</text>
+  <rect x="40" y="110" width="520" height="220" rx="16" fill="#bfd7ea"/>
+  <text x="70" y="165" font-family="Arial" font-size="34" fill="#1f2d3d">Hero title</text>
+  <text x="70" y="205" font-family="Arial" font-size="20" fill="#1f2d3d">Value proposition + CTA buttons</text>
+  <rect x="70" y="240" width="150" height="44" rx="8" fill="#ffffff"/>
+  <rect x="235" y="240" width="150" height="44" rx="8" fill="#ffffff"/>
+  <rect x="590" y="110" width="270" height="220" rx="16" fill="#dde7f0"/>
+  <text x="620" y="165" font-family="Arial" font-size="24" fill="#1f2d3d">Side panel</text>
+  <text x="620" y="205" font-family="Arial" font-size="18" fill="#1f2d3d">How it works</text>
+  <rect x="40" y="370" width="250" height="170" rx="16" fill="#ffffff" stroke="#c8d1dc"/>
+  <rect x="325" y="370" width="250" height="170" rx="16" fill="#ffffff" stroke="#c8d1dc"/>
+  <rect x="610" y="370" width="250" height="170" rx="16" fill="#ffffff" stroke="#c8d1dc"/>
+  <text x="90" y="430" font-family="Arial" font-size="20" fill="#1f2d3d">Benefit 1</text>
+  <text x="375" y="430" font-family="Arial" font-size="20" fill="#1f2d3d">Benefit 2</text>
+  <text x="660" y="430" font-family="Arial" font-size="20" fill="#1f2d3d">Benefit 3</text>
+</svg>
+

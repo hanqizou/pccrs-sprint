@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+{% block title %}Home{% endblock %}
+{% block content %}
+<section class="home-hero rounded-4 shadow-lg overflow-hidden">
+  <div class="row g-0">
+    <div class="col-lg-7 p-5 text-white">
+      <p class="text-uppercase small fw-semibold mb-3">CardSmart</p>
+      <h1 class="display-5 fw-bold mb-3">Turn your spending into an optimized card strategy.</h1>
+      <p class="lead mb-4">Upload your transactions, understand where your money actually goes, and build a card plan around real behavior instead of guesswork.</p>
+      <div class="d-flex gap-3 flex-wrap">
+        <a class="btn btn-light btn-lg px-4" href="{{ url_for('auth.register') }}">Get Started</a>
+        <a class="btn btn-outline-light btn-lg px-4" href="{{ url_for('auth.login') }}">Log In</a>
+      </div>
+    </div>
+    <div class="col-lg-5 home-hero-panel p-5">
+      <div class="home-stat-card">
+        <p class="small text-uppercase fw-semibold mb-2">What you get</p>
+        <h2 class="h4 mb-3">A recommendation workflow anchored in real data.</h2>
+        <p class="mb-0 text-secondary">CardSmart helps you import, categorize, and compare your spending so the eventual recommendation engine has clean inputs and explainable outputs.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="row g-4 mt-1">
+  <div class="col-md-4">
+    <div class="feature-tile h-100">
+      <h2 class="h5">Import your transactions</h2>
+      <p class="mb-0 text-secondary">Bring in CSV or JSON files from different sources and normalize them into one clean transaction table.</p>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="feature-tile h-100">
+      <h2 class="h5">See what drives spend</h2>
+      <p class="mb-0 text-secondary">Track categories, ranges, and patterns so card choice is tied to actual behavior, not assumptions.</p>
+    </div>
+  </div>
+  <div class="col-md-4">
+    <div class="feature-tile h-100">
+      <h2 class="h5">Prepare for recommendations</h2>
+      <p class="mb-0 text-secondary">Build a foundation for value calculations, sensitivity analysis, and explainable card plans in later sprints.</p>
+    </div>
+  </div>
+</section>
+{% endblock %}
